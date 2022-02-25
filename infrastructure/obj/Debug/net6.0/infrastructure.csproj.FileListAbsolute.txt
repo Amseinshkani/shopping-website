@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\bin\Debug\net6.0\infrastructure.deps.json
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\bin\Debug\net6.0\infrastructure.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\bin\Debug\net6.0\infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\bin\Debug\net6.0\infrastructure.pdb
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\refint\infrastructure.dll
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.pdb
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\infrastructure.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\Best Project\infrastructure\obj\Debug\net6.0\ref\infrastructure.dll
